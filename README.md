@@ -1,4 +1,4 @@
-# NodeJS study repositorie
+# NodeJS study repository
 
 - [ ] Core concepts
 - [ ] Frameworks (express)
